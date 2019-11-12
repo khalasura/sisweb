@@ -48,6 +48,7 @@ export default {
             height: '800px',
             chartOptions: {
                 spanGaps: true,
+                test:null,
                 scales: {
                     xAxes: [{
                         // ticks: {
