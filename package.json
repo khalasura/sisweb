@@ -14,7 +14,7 @@
     "@devexpress/dx-vue-grid": "^1.7.2",
     "@devexpress/dx-vue-grid-bootstrap4": "^1.7.2",
     "awesome-bootstrap-checkbox": "^1.0.1",
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "babel-polyfill": "^6.26.0",
     "beautify-scrollbar": "^1.0.8",
     "bootstrap-vue": "^2.0.0-rc.11",
