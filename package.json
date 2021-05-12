@@ -19,7 +19,7 @@
     "beautify-scrollbar": "^1.0.8",
     "bootstrap-vue": "^2.0.0-rc.11",
     "canvas-toBlob": "^1.0.0",
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "chartjs-plugin-annotation": "^0.5.7",
     "chartjs-plugin-zoom": "^0.6.6",
     "es6-promise": "^4.2.5",
